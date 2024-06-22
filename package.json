@@ -10,7 +10,7 @@
   "author": "Narada K",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^24.0.0"
+    "jsdom": "^24.1.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
